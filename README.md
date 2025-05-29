@@ -1,4 +1,4 @@
-# Cookies
+[https://docs.github.com/en/get-started/exploring-integrations/github-developer-program]
 
 GitHub provides a great deal of transparency regarding how we use your data, how we collect your data, and with whom we share your data. To that end, we provide this page which details how we use cookies.
 
